@@ -32,3 +32,6 @@ ENV/
 *.swp
 *.swo
 *~
+
+# Other
+content.txt
