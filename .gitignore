@@ -33,6 +33,12 @@ ENV/
 *.swo
 *~
 
+# Vector Database
+chroma_db/
+**/chroma_db/
+
 # Other
 content.txt
 02-rag/08_embeddings_sample.ipynb
+AGENT_REFERENCE.md
+scripts_day_10_11.txt
