@@ -42,3 +42,7 @@ content.txt
 02-rag/08_embeddings_sample.ipynb
 AGENT_REFERENCE.md
 scripts.txt
+CLAUDE.md
+
+# Hanalens
+.hanalens/
