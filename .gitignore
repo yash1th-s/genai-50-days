@@ -49,3 +49,13 @@ CLAUDE.md
 .hanalens/
 workspace/
 .claude/
+
+# Personal / Instagram / Content Strategy (not for public)
+carousels/
+
+# Skills & Agents (installed plugins)
+.agents/
+skills-lock.json
+
+# Working context
+.remember/
