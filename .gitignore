@@ -52,6 +52,7 @@ workspace/
 
 # Personal / Instagram / Content Strategy (not for public)
 carousels/
+second-brain/
 
 # Skills & Agents (installed plugins)
 .agents/
@@ -59,3 +60,6 @@ skills-lock.json
 
 # Working context
 .remember/
+
+# Playwright MCP screenshot scratch
+.playwright-mcp/
