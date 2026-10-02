@@ -38,11 +38,8 @@ chroma_db/
 **/chroma_db/
 
 # Other
-content.txt
 02-rag/08_embeddings_sample.ipynb
 AGENT_REFERENCE.md
-scripts.txt
-social.txt
 CLAUDE.md
 
 # Hanalens
@@ -53,6 +50,7 @@ workspace/
 # Personal / Instagram / Content Strategy (not for public)
 carousels/
 second-brain/
+content/
 
 # Skills & Agents (installed plugins)
 .agents/
