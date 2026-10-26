@@ -52,6 +52,11 @@ carousels/
 second-brain/
 content/
 
+# Session state / local agent config (not for public)
+HANDOFF.md
+AGENTS.md
+.codex/
+
 # Skills & Agents (installed plugins)
 .agents/
 skills-lock.json
