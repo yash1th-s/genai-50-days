@@ -42,6 +42,10 @@ chroma_db/
 AGENT_REFERENCE.md
 CLAUDE.md
 
+# Notebook runtime artifacts (generated when cells run — not source)
+# day49_memory.md is pushed intentionally as a demo artifact (sample data)
+08-langgraph/day50_profile.json
+
 # Hanalens
 .hanalens/
 workspace/
